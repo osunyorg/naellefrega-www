@@ -8,14 +8,14 @@ items:
   children: []
   path: "/projects"
   file: content/fr/projects/_index.html
-- title: Prises de paroles
+- title: prises de paroles
   target: "/prisesdeparoles/"
   kind: page
   new_tab: false
   children: []
   path: "/posts"
   file: content/fr/posts/_index.html
-- title: Veille et réflexions
+- title: veille et réflexions
   target: "/veille-et-reflexions/"
   kind: page
   new_tab: false
