@@ -22,7 +22,7 @@ items:
   children: []
   path: "/pages/veille-et-reflexions"
   file: content/fr/pages/veille-et-reflexions/_index.html
-- title: parcours
+- title: Parcours
   target: "/parcours/"
   kind: page
   new_tab: false
