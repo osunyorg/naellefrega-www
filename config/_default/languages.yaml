@@ -15,6 +15,9 @@ fr:
     projects_categories: /realisations/:slug/
     posts: /prisesdeparoles/:year-:month-:day-:slug/
     posts_categories: /prisesdeparoles/:slug/
+    persons: /equipe/:slug/
+    persons_categories: /equipe/categories/:slug/
+    authors: /equipe/:slug/prisesdeparoles/
   taxonomies:
     administrator: administrators
     author: authors
