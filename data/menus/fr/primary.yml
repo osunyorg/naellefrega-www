@@ -1,8 +1,8 @@
 ---
 title: Menu principal
 items:
-- title: Projets
-  target: "/projets/"
+- title: Réalisations
+  target: "/realisations/"
   kind: page
   new_tab: false
   children: []
