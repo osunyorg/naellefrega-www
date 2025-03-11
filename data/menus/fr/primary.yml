@@ -15,13 +15,6 @@ items:
   children: []
   path: "/posts"
   file: content/fr/posts/_index.html
-- title: parcours
-  target: "/parcours/"
-  kind: page
-  new_tab: false
-  children: []
-  path: "/pages/parcours"
-  file: content/fr/pages/parcours/_index.html
 - title: veille et réflexions
   target: "/veille-et-reflexions/"
   kind: page
@@ -29,4 +22,11 @@ items:
   children: []
   path: "/pages/veille-et-reflexions"
   file: content/fr/pages/veille-et-reflexions/_index.html
+- title: parcours
+  target: "/parcours/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/pages/parcours"
+  file: content/fr/pages/parcours/_index.html
 
