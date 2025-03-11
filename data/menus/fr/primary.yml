@@ -15,4 +15,11 @@ items:
   children: []
   path: "/posts"
   file: content/fr/posts/_index.html
+- title: parcours
+  target: "/parcours/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/pages/parcours"
+  file: content/fr/pages/parcours/_index.html
 
