@@ -2,45 +2,57 @@
 title: Menu principal
 items:
 - title: réalisations
+  slug: realisations
   target: "/realisations/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/projects"
   file: content/fr/projects/_index.html
 - title: prises de paroles
+  slug: prises-de-paroles
   target: "/prisesdeparoles/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/posts"
   file: content/fr/posts/_index.html
 - title: veille et réflexions
+  slug: veille-et-reflexions
   target: "/veille-et-reflexions/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/veille-et-reflexions"
   file: content/fr/pages/veille-et-reflexions/_index.html
 - title: parcours
+  slug: parcours
   target: "/parcours/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/parcours"
   file: content/fr/pages/parcours/_index.html
 - title: Équipe
+  slug: equipe
   target: "/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/persons"
   file: content/fr/persons/_index.html
 - title: Organisations
+  slug: organisations
   target: "/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/organizations"
   file: content/fr/organizations/_index.html
 
