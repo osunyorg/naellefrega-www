@@ -13,3 +13,24 @@ Cache-Control = "max-age=31536000, no-transform, public"
 for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 [headers.values]
 Cache-Control = "max-age=31536000, no-transform, public"
+
+[[redirects]]
+from = "/naelle-frega/prisesdeparoles/"
+to = "/equipe/naelle-frega/prisesdeparoles/"
+
+[[redirects]]
+from = "/equipe-editoriale/"
+to = "/equipe/equipe-editoriale/"
+
+[[redirects]]
+from = "/projets/"
+to = "/realisations/"
+
+[[redirects]]
+from = "/actualites/"
+to = "/prisesdeparoles/"
+
+[[redirects]]
+from = "/naelle-frega/"
+to = "/equipe/naelle-frega/"
+
